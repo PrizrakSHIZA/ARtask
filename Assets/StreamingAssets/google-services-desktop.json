@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "36098111472",
+    "firebase_url": "https://artask-23437.firebaseio.com",
+    "project_id": "artask-23437",
+    "storage_bucket": "artask-23437.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36098111472:android:e8ef9ef9318c96ce3c8f35",
+        "android_client_info": {
+          "package_name": "com.prizrak.paintinginfoar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36098111472-nn0prkv0h4p6rpd3osmsjmn7dtjqappc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1ZcOc1oSL8NZPk0zzIojeIFD8wuNj1rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36098111472-nn0prkv0h4p6rpd3osmsjmn7dtjqappc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
